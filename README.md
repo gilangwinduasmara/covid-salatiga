@@ -1,5 +1,6 @@
 # Covid-Salatiga
 api data penyebaran covid19 di Salatiga
+
 akses api di http://covidsalatiga.promager.com
 
 # Routes
