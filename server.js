@@ -10,4 +10,3 @@ const router = require('./src/routes/routes')
 app.use(router)
 
 app.listen(port);
-console.log('Learn Node JS With Kiddy, RESTful API server started on: ' + port);
